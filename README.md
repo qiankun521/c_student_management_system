@@ -1,0 +1,2 @@
+# c_student_management_system
+#基于c语言的命令行学生成绩管理系统
